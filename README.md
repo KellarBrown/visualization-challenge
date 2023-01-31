@@ -1,6 +1,6 @@
 # visualization-challenge
 * pymaceuticals_analysis
-  * Prepare the Data (20 points)
+  * Prepare the Data
   * Generate Summary Statistics
   * Create Bar Charts and Pie Charts
   * Calculate Quartiles, Find Outliers, and Create a Box Plot
